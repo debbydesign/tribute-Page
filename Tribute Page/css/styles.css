@@ -1,0 +1,108 @@
+/*******************CLASS SELECTORS*****************/
+
+.mae {
+
+  width: 74%;
+  height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+
+  font-family: 'Bebas Neue', cursive;
+  font-size: 7rem;
+  line-height: 0.8;
+  text-align: center;
+  color: #f39312;
+}
+
+.year {
+  position: absolute;
+  top: 400px;
+  left: 210px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: left;
+  color: #43405e;
+}
+
+.job-title {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+  line-height: 2;
+  text-align: center;
+  color: #5c577f;
+}
+
+.early-life {
+  font-family: 'Assistant', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #5c577f;
+}
+
+.early-life-paragraph {
+  font-family: 'Assistant', sans-serif;
+  font-size: 1.2rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+.p-quote {
+  font-family: 'Assistant', sans-serif;
+  font-weight: 300;
+  font-size: 1.5rem;
+  text-align: center;
+  background-color: #5c577f;
+  color: white;
+  padding: 5px;
+  width: 100%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: lightgray;
+  border-width: 1px;
+  width: 5%;
+}
+
+ul.stars {
+  list-style-type: none;
+  font-family: 'Assistant', sans-serif;
+  font-size: 1.3rem;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+strong {
+  color: #5c577f;
+}
+
+.star-year {
+  text-decoration: none;
+}
+
+h4 {
+  font-family: 'Assistant', sans-serif;
+  font-size: 1.3rem;
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: gray;
+}
+
+a#mae-tribute-link {
+  text-decoration: none;
+  color: #f39312;
+}
+
+a#mae-tribute-link:hover {
+  color: #5c577f;
+}
